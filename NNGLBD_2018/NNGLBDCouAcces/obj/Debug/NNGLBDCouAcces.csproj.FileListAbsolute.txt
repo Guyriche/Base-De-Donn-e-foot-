@@ -1,0 +1,6 @@
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Projet Base De Donnée\NNGLBD_2018\NNGLBDCouAcces\bin\Debug\NNGLBDCouAcces.dll
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Projet Base De Donnée\NNGLBD_2018\NNGLBDCouAcces\bin\Debug\NNGLBDCouAcces.pdb
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Projet Base De Donnée\NNGLBD_2018\NNGLBDCouAcces\obj\Debug\NNGLBDCouAcces.csprojResolveAssemblyReference.cache
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Projet Base De Donnée\NNGLBD_2018\NNGLBDCouAcces\obj\Debug\NNGLBDCouAcces.csproj.CoreCompileInputs.cache
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Projet Base De Donnée\NNGLBD_2018\NNGLBDCouAcces\obj\Debug\NNGLBDCouAcces.dll
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Projet Base De Donnée\NNGLBD_2018\NNGLBDCouAcces\obj\Debug\NNGLBDCouAcces.pdb

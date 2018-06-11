@@ -1,0 +1,6 @@
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Projet Base De Donnée\NNGLBD_2018\NNGLBDCouClasse\bin\Debug\NNGLBDCouClasse.dll
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Projet Base De Donnée\NNGLBD_2018\NNGLBDCouClasse\bin\Debug\NNGLBDCouClasse.pdb
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Projet Base De Donnée\NNGLBD_2018\NNGLBDCouClasse\obj\Debug\NNGLBDCouClasse.csprojResolveAssemblyReference.cache
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Projet Base De Donnée\NNGLBD_2018\NNGLBDCouClasse\obj\Debug\NNGLBDCouClasse.csproj.CoreCompileInputs.cache
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Projet Base De Donnée\NNGLBD_2018\NNGLBDCouClasse\obj\Debug\NNGLBDCouClasse.dll
+D:\Nouveau doc 2eme IS\Quadrimestre II\Program even labo (Mr Alexandre)\Projet Base De Donnée\NNGLBD_2018\NNGLBDCouClasse\obj\Debug\NNGLBDCouClasse.pdb
